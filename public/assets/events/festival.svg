@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#831843"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <circle cx="200" cy="180" r="130" fill="#fbcfe8" opacity="0.25"/>
+  <polygon points="600,180 640,280 750,280 660,340 700,450 600,380 500,450 540,340 450,280 560,280" fill="#fff" opacity="0.95"/>
+  <text x="60" y="620" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="700">FESTIVAL</text>
+</svg>
