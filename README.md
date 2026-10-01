@@ -151,7 +151,7 @@ public/assets/     # Images, icons, category SVGs
 
 ## Author
 
-**Anvesh Srivastav**
+**Vedant Vivek**
 
 ---
 
