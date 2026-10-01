@@ -41,13 +41,13 @@ Built with **Next.js** and **TypeScript**, using **Email OTP authentication**, *
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/anveshas/Event-Dazzle.git
+git clone https://github.com/VedantVivek/Event_Finder.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Event-Dazzle
+cd Event_Finder
 ```
 
 3. **Install dependencies:**
